@@ -47,8 +47,8 @@ Model classnames are singular and CamelCased. Person, BigPerson, and
 ReallyBigPerson are all examples of conventional model names.
 
 Table names corresponding to CakePHP models are plural and underscored.
-The underlying tables for the above mentioned models would be people,
-big\_people, and really\_big\_people, respectively.
+The underlying tables for the above mentioned models would be person,
+big\person, and really\_big\_person, respectively.
 
 You can use the utility library "Inflector" to check the singular/plural
 of words. See the :doc:`/The-Manual/Core-Utility-Libraries/Inflector` for
